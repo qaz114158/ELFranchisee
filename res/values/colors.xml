@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_base">#ffffffff</color>
+    <color name="c_title_bg">#FFFFFF</color>
+    <color name="c_main_title_bg">#FFFFFF</color>
+
+    <color name="title_background">#262527</color>
+    
+    <color name="red_background">#eb413d</color>
+    <color name="blue_background">#eb413d</color>
+    
+    <color name="c_list_type_nomal">#F9F9F9</color>
+	<color name="c_list_type_pressed">#CCCCCC</color>
+    
+	<color name="c_text_title1">#212121</color>
+	<color name="c_text_title2">#333333</color>
+	<color name="c_text_title3">#585858</color>
+	<color name="c_text_input1">#999999</color> 
+	<color name="c_text_input2">#949494</color>
+	
+    <color name="list_divider">#EBEBEB</color>
+    <color name="list_divider1">#E7E7E7</color>
+    <color name="c_text_title">#4c4948</color>
+	<color name="c_text_input">#898989</color> 
+	<color name="c_text_tab">#212121</color> 
+	<color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>  
+    <color name="blue1">#ff0F49FF</color>
+    <color name="blue2">#1B77DD</color>
+    
+    <color name="red1">#ffF51800</color>
+      
+    <color name="green1">#239500</color>
+	
+    <color name="title_text">#EE7800</color>
+    <color name="title_text_black">#4C4948</color>
+    <color name="title_text_black1">#727171</color>
+    <color name="title_text_dark">#C26200</color>
+    <color name="lighter_gray">#ffd3d3d3</color>
+    
+    <!-- zjh -->
+    <color name="gray_input_text_color">#595959</color>
+    <color name="gray_input_hinttext_color">#979797</color>
+    <color name="gray_marktext_color">#595959</color>
+    <color name="gray_text_color">#858585</color>
+    <color name="red_hinttext_color">#ec3d3d</color>
+    
+    
+    <color name="gray_1">#CCCCCC</color>
+	<color name="gray_2">#555555</color>
+	<color name="gray_3">#898989</color>
+	<color name="gray_4">#F2F2F2</color>
+	<color name="blue_1">#039AFF</color>
+	<color name="blue_2">#01688F</color>
+	<color name="gray">#f5f5f5</color>
+	<color name="red">#CF3316</color>
+	<color name="transparent">#00000000</color>
+	<color name="yellow_1">#F5A623</color>
+	<color name="push_dialog_notification">#363D44</color>
+	
+	<!-- zjh -->
+	
+	<color name="c_text_orange1">#F87C0A</color>
+	<color name="c_login_orange1">#F87C0A</color>
+	
+	<color name="c_chip_statu_red">#CC2666</color>
+	<color name="c_chip_statu_yellow">#CC741F</color>
+	<color name="c_chip_statu_white">#AEB9CE</color>
+	<color name="c_chip_statu_red1">#C62337</color>
+	<color name="c_chip_statu_voiet">#782FEC</color>
+	<color name="c_chip_statu_red2">#F51454</color>
+	
+	<color name="c_rank_1">#F36D13</color>
+	<color name="c_rank_2">#FA9200</color>
+	<color name="c_rank_3">#FAC229</color>
+	<color name="c_rank_last">#D3D3D3</color>
+	
+	
+</resources>

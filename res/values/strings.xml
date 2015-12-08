@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YiLongDai</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="st_back">返回</string>
+    <string name="st_back_notice">再按一次退出程序</string>
+    
+</resources>
